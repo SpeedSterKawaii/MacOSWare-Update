@@ -1,5 +1,5 @@
 == Changelogs for 5/21/2021 ==
-• Custom DLL
-• Fast Injection
-• User Friendly Interface
-• Windows 7 Support
+{+} Custom DLL
+{+} Fast Injection
+{+} User Friendly Interface
+{+} Windows 7 Support
