@@ -1,3 +1,7 @@
+== Credits ==
+{+} SpeedSterKawaii (DLL)
+{+} Nexus42 (Tabs)
+{+} mysterious4580 (Lua Obfuscator)
 == Changelogs for 5/21/2021 ==
 {+} Custom DLL
 {+} Fast Injection
