@@ -2,7 +2,7 @@
 {+} SpeedSterKawaii (DLL)
 {+} Nexus42 (Tabs)
 {+} mysterious4580 (Lua Obfuscator)
-== Changelogs for 5/21/2021 ==
+== Features ==
 {+} Custom DLL
 {+} Fast Injection
 {+} User Friendly Interface
