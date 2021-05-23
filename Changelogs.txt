@@ -1,9 +1,0 @@
-== Credits ==
-{+} SpeedSterKawaii (DLL)
-{+} Nexus42 (Tabs)
-{+} mysterious4580 (Lua Obfuscator)
-== Features ==
-{+} Custom DLL
-{+} Fast Injection
-{+} User Friendly Interface
-{+} Windows 7 Support
